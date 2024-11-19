@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @Sridharkammari
-- 👀 I’m interested in LINUX, AWS,DEVOS
+- 👋 Hi, I’m @Sreedhar kammari
+- 👀 I’m interested in LINUX, AWS,DevOps
 - 🌱 I’m currently learning Aws and Linux
 - 💞️ I’m looking to collaborate on ...Aws and linux
 - 📫 How to reach me ...
